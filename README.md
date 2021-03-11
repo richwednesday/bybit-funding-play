@@ -1,6 +1,6 @@
 # bybit-funding-play
-a script to collect funding by shorting perps on bybit exchange | hedge by longing futures.
-reduce trade fees by submiting a limit order for one contract and a market order for other contract once limit order is filled. 
+A script to collect funding by shorting perps on bybit exchange | hedge by longing futures.  
+Reduce trade fees by submiting a limit order for one contract and a market order for other contract once limit order is filled. 
 
 create a `config.js` file like below:
 
