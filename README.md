@@ -12,3 +12,5 @@ module.exports = {
   FUTURETICKER: "BTCUSDM21" // "BTCUSD0625"
 }
 ```
+
+run `node index.js`
